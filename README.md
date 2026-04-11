@@ -19,4 +19,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-Web_Framework-blue)
 
+![Agent](https://img.shields.io/badge/Agent-AI_Agent-orange)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-blue)
+

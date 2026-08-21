@@ -11,7 +11,7 @@ Building practical developer tools with **AI Agents, Codex, and MCP**.
     <img src="https://img.shields.io/github/followers/paoxia?style=flat-square&logo=github&label=Followers&color=181717" alt="GitHub followers" />
   </a>
   <a href="https://github.com/paoxia?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpaoxia&query=%24.public_repos&label=Public%20Repos&logo=github&color=0969da&style=flat-square" alt="Public repositories" />
+    <img src="https://img.shields.io/badge/Public%20Repos-12-0969da?style=flat-square&logo=github" alt="Public repositories" />
   </a>
   <a href="mailto:syyu2015@gmail.com">
     <img src="https://img.shields.io/badge/Email-syyu2015%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
